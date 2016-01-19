@@ -1,0 +1,40 @@
+2016-01-19 12:06:38,710 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: capstone:capstone:0.0.1-SNAPSHOT @ /Users/OneDeep/Documents/Capstone/capstone/capstone/pom.xml.
+2016-01-19 12:06:41,342 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:06:41,346 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
+2016-01-19 12:06:41,351 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:06:41,352 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
+2016-01-19 12:06:41,379 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /capstone/src
+2016-01-19 12:06:41,380 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /capstone/src/test/java because it overlaps with /capstone/src
+2016-01-19 12:06:42,299 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-19 12:06:42,846 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: capstone:capstone:0.0.1-SNAPSHOT @ /Users/OneDeep/Documents/Capstone/capstone/capstone/pom.xml.
+2016-01-19 12:06:44,169 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:06:44,172 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
+2016-01-19 12:06:44,175 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:06:44,175 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
+2016-01-19 12:06:44,176 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of capstone
+2016-01-19 12:06:44,177 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for capstone
+2016-01-19 12:06:44,216 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:06:44,263 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /capstone/src
+2016-01-19 12:06:44,264 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /capstone/src/test/java because it overlaps with /capstone/src
+2016-01-19 12:06:44,793 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for capstone
+2016-01-19 12:06:44,878 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-01-19 12:06:45,264 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:06:45,265 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
+2016-01-19 12:06:45,268 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:06:45,268 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
+2016-01-19 12:09:29,893 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:09:29,903 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
+2016-01-19 12:09:29,910 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:09:29,915 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
+2016-01-19 12:09:46,449 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:09:46,450 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
+2016-01-19 12:09:46,452 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:09:46,453 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
+2016-01-19 12:11:49,760 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:11:49,761 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
+2016-01-19 12:11:49,764 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:11:49,765 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
+2016-01-19 12:11:59,973 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:11:59,974 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
+2016-01-19 12:11:59,976 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:11:59,977 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
