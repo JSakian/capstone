@@ -38,3 +38,16 @@
 2016-01-19 12:11:59,974 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
 2016-01-19 12:11:59,976 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-01-19 12:11:59,977 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
+2016-01-19 12:23:14,057 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JPA_1:JPA_1:0.0.1-SNAPSHOT @ /Users/OneDeep/Documents/Programing/eclipse/SpringWork/JPA_1/pom.xml.
+2016-01-19 12:23:16,800 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:23:16,801 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Programing/eclipse/SpringWork/JPA_1/src/main/resources
+2016-01-19 12:23:16,804 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:23:16,804 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Programing/eclipse/SpringWork/JPA_1/src/test/resources
+2016-01-19 12:23:17,588 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:23:17,589 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Programing/eclipse/SpringWork/JPA_1/src/main/resources
+2016-01-19 12:23:17,591 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:23:17,592 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Programing/eclipse/SpringWork/JPA_1/src/test/resources
+2016-01-19 12:23:19,814 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:23:19,830 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Programing/eclipse/SpringWork/JPA_1/src/main/resources
+2016-01-19 12:23:19,831 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-19 12:23:19,832 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Programing/eclipse/SpringWork/JPA_1/src/test/resources
