@@ -7,7 +7,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Lob;
-import javax.persistence.OneToMany;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
@@ -21,8 +20,6 @@ public class Events implements Serializable {
 	private String Date;
 	@Lob
 	private String Description;
-	@OneToMany
-	String Attendee;
 	
 	public Events(){}
 	
