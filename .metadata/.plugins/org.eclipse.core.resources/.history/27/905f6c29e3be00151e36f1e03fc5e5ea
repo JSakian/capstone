@@ -1,0 +1,11 @@
+package com.gitrdone;
+
+public class Events {
+	
+	String EventName;
+	String Date;
+	String Description;
+	
+	
+
+}
