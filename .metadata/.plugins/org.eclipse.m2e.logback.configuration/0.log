@@ -191,3 +191,11 @@
 2016-01-19 16:26:01,796 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
 2016-01-19 16:26:01,798 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-01-19 16:26:01,799 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
+2016-01-20 09:23:14,240 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-20 09:23:14,249 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
+2016-01-20 09:23:14,254 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-20 09:23:14,255 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
+2016-01-20 09:23:15,989 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-20 09:23:15,991 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/main/resources
+2016-01-20 09:23:15,994 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-20 09:23:15,996 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/OneDeep/Documents/Capstone/capstone/capstone/src/test/resources
